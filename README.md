@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file that you can use for your Registration Form project. This README provides a professional and concise overview of the project, including its purpose, features, and instructions for setup.
-
----
 
 # Registration Form
 
@@ -11,7 +8,7 @@ Certainly! Below is a sample README file that you can use for your Registration 
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -53,9 +50,12 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-## License
+## Credits
 
-This project is licensed under the [MIT License](LICENSE).
+- The cafe menu images are provided by [FreeCodeCamp](https://www.freecodecamp.org).
+- The background image is sourced from [FreeCodeCamp's CSS Cafe curriculum](https://www.freecodecamp.org/curriculum/css-cafe).
+
+Visit [FreeCodeCamp](https://www.freecodecamp.org) for more educational resources.
 
 ---
 
